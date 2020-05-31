@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tutor-ops/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tutor-ops/static/js/main.4500c8a1.chunk.js",
+    "main.js.map": "/tutor-ops/static/js/main.4500c8a1.chunk.js.map",
+    "runtime-main.js": "/tutor-ops/static/js/runtime-main.9738d54f.js",
+    "runtime-main.js.map": "/tutor-ops/static/js/runtime-main.9738d54f.js.map",
+    "static/js/2.766d7742.chunk.js": "/tutor-ops/static/js/2.766d7742.chunk.js",
+    "static/js/2.766d7742.chunk.js.map": "/tutor-ops/static/js/2.766d7742.chunk.js.map",
+    "index.html": "/tutor-ops/index.html",
+    "precache-manifest.abd2fdef043111b8da0a251696dde11b.js": "/tutor-ops/precache-manifest.abd2fdef043111b8da0a251696dde11b.js",
+    "service-worker.js": "/tutor-ops/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tutor-ops/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.766d7742.chunk.js.LICENSE.txt": "/tutor-ops/static/js/2.766d7742.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tutor-ops/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9738d54f.js",
+    "static/js/2.766d7742.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4500c8a1.chunk.js"
+  ]
+}
