@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tutor-ops/static/css/main.ea40c313.chunk.css",
-    "main.js": "/tutor-ops/static/js/main.fbc14658.chunk.js",
-    "main.js.map": "/tutor-ops/static/js/main.fbc14658.chunk.js.map",
+    "main.js": "/tutor-ops/static/js/main.0696a253.chunk.js",
+    "main.js.map": "/tutor-ops/static/js/main.0696a253.chunk.js.map",
     "runtime-main.js": "/tutor-ops/static/js/runtime-main.9738d54f.js",
     "runtime-main.js.map": "/tutor-ops/static/js/runtime-main.9738d54f.js.map",
     "static/js/2.c9ce7234.chunk.js": "/tutor-ops/static/js/2.c9ce7234.chunk.js",
     "static/js/2.c9ce7234.chunk.js.map": "/tutor-ops/static/js/2.c9ce7234.chunk.js.map",
     "index.html": "/tutor-ops/index.html",
-    "precache-manifest.c46c5a11e09ad164953ceb3d8ea2c71d.js": "/tutor-ops/precache-manifest.c46c5a11e09ad164953ceb3d8ea2c71d.js",
+    "precache-manifest.425b2ecfa4103059100bc5baa7538e63.js": "/tutor-ops/precache-manifest.425b2ecfa4103059100bc5baa7538e63.js",
     "service-worker.js": "/tutor-ops/service-worker.js",
     "static/css/main.ea40c313.chunk.css.map": "/tutor-ops/static/css/main.ea40c313.chunk.css.map",
     "static/js/2.c9ce7234.chunk.js.LICENSE.txt": "/tutor-ops/static/js/2.c9ce7234.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9738d54f.js",
     "static/js/2.c9ce7234.chunk.js",
     "static/css/main.ea40c313.chunk.css",
-    "static/js/main.fbc14658.chunk.js"
+    "static/js/main.0696a253.chunk.js"
   ]
 }
