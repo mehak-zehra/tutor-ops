@@ -11,3 +11,66 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn_1 {
+  width: 160px; 
+  height: 50px;
+  background-color: #001a96;
+  color: white;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  border-color:whitesmoke;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.counter_label {
+color: white;
+font-size: 80px;
+}
+
+.category-tally {
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  background-color:#001a96 ;
+  padding: 20px;
+  margin-right: 3px;
+  border-radius: 10px;
+}
+
+.row {
+
+  margin-top: 40px;
+}
+
+.btn_2_undo {
+ background: transparent;
+}
+
+.btn_3_clear {
+  width: 100px;
+  height: 35px;
+  /* float: right; */
+  border-color: white;
+  border-style: solid;
+  border-width: thin;
+  font-weight: 700;
+  background-color: #e00099;
+  color: white;
+
+}
+.total-category{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 100px;
+}
+.total-label {
+  font-size: 80px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.undo-icon:hover {
+  cursor: pointer; 
+}
+
