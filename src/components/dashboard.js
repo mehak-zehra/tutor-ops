@@ -12,7 +12,7 @@ function Dashboard() {
     return (
         <div className="container">
             <div className="row text-center">
-                <h1 className="abbas">TutorOps Applications</h1>
+                <h1 className="total-label">TutorOps Applications</h1>
                 {/* <button className="btn_3_clear">CLEAR ALL */}
 
                 {/* </button> */}
