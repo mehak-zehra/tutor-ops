@@ -12,10 +12,9 @@ function Dashboard() {
     return (
         <div className="container">
             <div className="row text-center">
-                <h1 className="total-label">TutorOps Applications</h1>
-                {/* <button className="btn_3_clear">CLEAR ALL */}
-
-                {/* </button> */}
+                <div className="col">
+                    <h1 className="title-label">TutorOps Applications</h1>
+                </div>
             </div>
             <div className="row justify-content-center" >
                 <CategoryTally category="Approved" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
@@ -25,8 +24,8 @@ function Dashboard() {
                 <CategoryTally category="No CH/Category" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
             </div>
 
-            <div className="total-category">
-                <h1 className="total-label">total : {total}</h1>
+            <div className=" row total-category">
+                <p className="total-label">total : {total}</p>
             </div>
         </div>
     )

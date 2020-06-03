@@ -20,10 +20,10 @@ function CategoryTally(props) {
             </div>
 
             <div className="text-center">
-                <h1 className="counter_label">{counter}</h1>
+                <p className="counter_label">{counter}</p>
             </div>
             <div className="text-center">
-                <button className="btn_1" onClick={handleClick}> {props.category} </button>
+                <button className="btn_1" onClick={handleClick}>{props.category}</button>
             </div>
 
 

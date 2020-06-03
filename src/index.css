@@ -13,21 +13,21 @@ code {
 }
 
 .btn_1 {
-  width: 160px; 
-  height: 50px;
+  width: 15rem; 
+  height: 3.125rem;
   background-color: #001a96;
   color: white;
   text-align: center;
   border-style: solid;
-  border-width: 2px;
+  border-width: 0.125rem;
   border-color:whitesmoke;
   font-weight: bold;
-  border-radius: 10px;
+  border-radius: 0.625rem;
 }
 
 .counter_label {
 color: white;
-font-size: 80px;
+font-size: 5rem;
 }
 
 .category-tally {
@@ -35,42 +35,46 @@ font-size: 80px;
   border-style: solid;
   border-width: thin;
   background-color:#001a96 ;
-  padding: 20px;
-  margin-right: 3px;
-  border-radius: 10px;
+  padding: 1.25rem; 
+  margin: 0.25rem; 
+  border-radius: 0.625rem;
+  min-width: 200px;
+  min-height: 50px;
 }
 
-.row {
 
-  margin-top: 40px;
-}
-
-.btn_2_undo {
+.undo-icon {
  background: transparent;
+ float: right;
 }
 
-.btn_3_clear {
-  width: 100px;
-  height: 35px;
-  /* float: right; */
-  border-color: white;
-  border-style: solid;
-  border-width: thin;
-  font-weight: 700;
-  background-color: #e00099;
-  color: white;
 
-}
-.total-category{
-  font-family: Brush Script MT, Brush Script Std, cursive;
+/* .total-category{
+  font-family: Blippo, fantasy;
   font-size: 100px;
-}
+} */
 .total-label {
-  font-size: 80px;
-  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 3.75rem;
+  font-family: Blippo, fantasy;
+  padding-top: 1.5rem;
+  float: left;
+}
+.title-label {
+  font-family: Blippo, fantasy;
+  font-size: 60px; 
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .undo-icon:hover {
   cursor: pointer; 
+}
+
+.image-info {
+  overflow: hidden;
+}
+.container {
+  min-height: 0px;
+  max-width: 100%;
 }
 
