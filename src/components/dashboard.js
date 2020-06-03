@@ -16,12 +16,15 @@ function Dashboard() {
                     <h1 className="title-label">TutorOps Applications</h1>
                 </div>
             </div>
-            <div className="row justify-content-center" >
+            <div className="row justify-content-md-center" >
                 <CategoryTally category="Approved" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
                 <CategoryTally category="Rejected" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
                 <CategoryTally category="Recollection" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
                 <CategoryTally category="Final Review" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
                 <CategoryTally category="No CH/Category" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
+            </div>
+            <div className="row">
+                <hr />
             </div>
 
             <div className=" row total-category">

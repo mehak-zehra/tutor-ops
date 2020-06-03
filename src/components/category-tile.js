@@ -8,7 +8,7 @@ function CategoryTally(props) {
         props.updateTotal()
     }
     return (
-        <div className="col-md-2 category-tally" >
+        <div className="col-sm-2 category-tally" >
             <div className="image-info">
                 <img className="undo-icon" src={undo} onClick={() => {
                     if (counter > 0) {

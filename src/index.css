@@ -22,12 +22,12 @@ code {
   border-width: 0.125rem;
   border-color:whitesmoke;
   font-weight: bold;
-  border-radius: 0.625rem;
+  border-radius: 1rem;
 }
 
 .counter_label {
 color: white;
-font-size: 5rem;
+font-size: 7rem;
 }
 
 .category-tally {
@@ -37,27 +37,28 @@ font-size: 5rem;
   background-color:#001a96 ;
   padding: 1.25rem; 
   margin: 0.25rem; 
-  border-radius: 0.625rem;
+  border-radius: 1.5rem;
   min-width: 200px;
   min-height: 50px;
 }
-
 
 .undo-icon {
  background: transparent;
  float: right;
 }
 
-
-/* .total-category{
-  font-family: Blippo, fantasy;
-  font-size: 100px;
-} */
 .total-label {
   font-size: 3.75rem;
   font-family: Blippo, fantasy;
   padding-top: 1.5rem;
   float: left;
+  color: #e00099;
+  /* color: pink;
+  border-color: pink;
+  border-style: solid;
+  border-radius: 1rem;;
+  border-width: thin;
+  width: 500px; */
 }
 .title-label {
   font-family: Blippo, fantasy;
@@ -78,3 +79,6 @@ font-size: 5rem;
   max-width: 100%;
 }
 
+hr {
+  border: 3px solid #e00099;
+}
