@@ -16,7 +16,10 @@ function Dashboard() {
                     <h1 className="title-label">TutorOps Applications</h1>
                 </div>
             </div>
-            <div className="row justify-content-md-center" >
+            <div className="row">
+                <hr />
+            </div>
+            <div className="row " >
                 <CategoryTally category="Approved" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
                 <CategoryTally category="Rejected" updateTotal={incrementTotal} decrementTotal={decrementTotal} />
                 <CategoryTally category="Recollection" updateTotal={incrementTotal} decrementTotal={decrementTotal} />

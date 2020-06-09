@@ -40,6 +40,7 @@ font-size: 7rem;
   border-radius: 1.5rem;
   min-width: 200px;
   min-height: 50px;
+  /* display: inline-block; */
 }
 
 .undo-icon {
@@ -48,8 +49,8 @@ font-size: 7rem;
 }
 
 .total-label {
-  font-size: 3.75rem;
-  font-family: Blippo, fantasy;
+  font-size: 10rem;
+  font-family: Cookie;
   padding-top: 1.5rem;
   float: left;
   color: #e00099;
@@ -61,10 +62,11 @@ font-size: 7rem;
   width: 500px; */
 }
 .title-label {
-  font-family: Blippo, fantasy;
-  font-size: 60px; 
+  font-family: Cookie;
+  font-size: 90px; 
   padding-top: 20px;
   padding-bottom: 20px;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
 }
 
 .undo-icon:hover {
@@ -81,4 +83,8 @@ font-size: 7rem;
 
 hr {
   border: 3px solid #e00099;
+}
+
+.categories {
+  /* text-align:center; */
 }
