@@ -40,7 +40,6 @@ font-size: 7rem;
   border-radius: 1.5rem;
   min-width: 200px;
   min-height: 50px;
-  /* display: inline-block; */
 }
 
 .undo-icon {
@@ -83,8 +82,4 @@ font-size: 7rem;
 
 hr {
   border: 3px solid #e00099;
-}
-
-.categories {
-  /* text-align:center; */
 }
