@@ -27,7 +27,7 @@ code {
 
 .counter_label {
 color: white;
-font-size: 7rem;
+font-size: 4vw;
 }
 
 .category-tally {
@@ -48,7 +48,7 @@ font-size: 7rem;
 }
 
 .total-label {
-  font-size: 10rem;
+  font-size: 6vw;
   font-family: Cookie;
   padding-top: 1.5rem;
   float: left;
@@ -62,7 +62,7 @@ font-size: 7rem;
 }
 .title-label {
   font-family: Cookie;
-  font-size: 90px; 
+  font-size: 7vw;
   padding-top: 20px;
   padding-bottom: 20px;
   text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
@@ -84,3 +84,26 @@ hr {
   border: 3px solid #e00099;
   background: #e00099;
 }
+.clipboard-btn {
+  float: right;
+  background: white;
+  border-style: solid;
+  border-color: #001a96 ;
+  color:#001a96;
+  /* font-weight: bold; */
+  /* border-radius: 1rem; */
+  border-width: 0.1rem;
+  width: 17rem;
+  height: 3rem;
+}
+ .clipboard-btn:hover {
+   background-color: #001a96;
+   color: white;
+ }
+
+ .copied-status {
+   font-weight: bold;
+   float: right;
+   padding-right: 10px;
+   text-align: center;
+ }
