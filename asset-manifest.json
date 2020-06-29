@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tutor-ops/static/css/main.b49d0e02.chunk.css",
-    "main.js": "/tutor-ops/static/js/main.984503f6.chunk.js",
-    "main.js.map": "/tutor-ops/static/js/main.984503f6.chunk.js.map",
+    "main.css": "/tutor-ops/static/css/main.296ca432.chunk.css",
+    "main.js": "/tutor-ops/static/js/main.dad1c16b.chunk.js",
+    "main.js.map": "/tutor-ops/static/js/main.dad1c16b.chunk.js.map",
     "runtime-main.js": "/tutor-ops/static/js/runtime-main.9738d54f.js",
     "runtime-main.js.map": "/tutor-ops/static/js/runtime-main.9738d54f.js.map",
     "static/js/2.c9ce7234.chunk.js": "/tutor-ops/static/js/2.c9ce7234.chunk.js",
     "static/js/2.c9ce7234.chunk.js.map": "/tutor-ops/static/js/2.c9ce7234.chunk.js.map",
     "index.html": "/tutor-ops/index.html",
-    "precache-manifest.07f22952d022d38c5654b551ef941f3e.js": "/tutor-ops/precache-manifest.07f22952d022d38c5654b551ef941f3e.js",
+    "precache-manifest.214476636ae8aa13fe6913ea5a822c3d.js": "/tutor-ops/precache-manifest.214476636ae8aa13fe6913ea5a822c3d.js",
     "service-worker.js": "/tutor-ops/service-worker.js",
-    "static/css/main.b49d0e02.chunk.css.map": "/tutor-ops/static/css/main.b49d0e02.chunk.css.map",
+    "static/css/main.296ca432.chunk.css.map": "/tutor-ops/static/css/main.296ca432.chunk.css.map",
     "static/js/2.c9ce7234.chunk.js.LICENSE.txt": "/tutor-ops/static/js/2.c9ce7234.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9738d54f.js",
     "static/js/2.c9ce7234.chunk.js",
-    "static/css/main.b49d0e02.chunk.css",
-    "static/js/main.984503f6.chunk.js"
+    "static/css/main.296ca432.chunk.css",
+    "static/js/main.dad1c16b.chunk.js"
   ]
 }
