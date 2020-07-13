@@ -25,6 +25,11 @@ code {
   border-radius: 1rem;
 }
 
+.btn_1:hover {
+  background-color: white;
+  color: #001a96;
+}
+
 .counter_label {
 color: white;
 font-size: 4vw;

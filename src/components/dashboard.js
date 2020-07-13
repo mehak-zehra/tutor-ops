@@ -12,14 +12,15 @@ function Dashboard() {
     const copyToClipboard = () => {
         const el = document.createElement('textarea');
         el.value =
-            `*_TutorOps_:*\n` +
-            `*APPROVED* = ${approve}\n` +
-            `*REJECTED* = ${reject}\n` +
-            `*RECOLLECT* = ${recollect}\n` +
-            `*FINAL REVIEW* = ${finalReview}\n` +
-            `*NO CH ACCOUNT* = ${noCHAccount}\n` +
-            `_____________________________________\n` +
-            `*TOTAL = ${approve + reject + finalReview + recollect + noCHAccount}*`
+            `TutorOps Applications:\n` +
+            `----------------------------------\n` +
+            `APPROVED = ${approve}\n` +
+            `REJECTED = ${reject}\n` +
+            `RECOLLECT = ${recollect}\n` +
+            `FINAL REVIEW = ${finalReview}\n` +
+            `NO CH ACCOUNT = ${noCHAccount}\n` +
+            `----------------------------------\n` +
+            `TOTAL = ${approve + reject + finalReview + recollect + noCHAccount}`
         document.body.appendChild(el);
         el.select();
         document.execCommand('copy');
